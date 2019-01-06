@@ -1,10 +1,19 @@
 # edinet
-experiment of EDINET API
+experiment of EDINET API  
 EDINETのAPI試験に参加したときの記録
+
+金融庁は、２０１９年４月よりEDINETにAPIを導入し、公衆縦覧機能の拡充を図ろうとしています。  
+これは、２０１９年１月から行われる、APIのテストの記録。  
+なお、私自身のAPIの学習と初めてのGitHubの利用も兼ねているので、意味不明な箇所もあります。  
+当然に、完全に無保証ですので、閲覧や利用によって被る一切の損害に対しては、当方は責任は負いません。  
 
 ## EDINETとは
 
-金融商品取引法に基づいて上場会社等が内閣総理大臣に提出する、企業に関する情報を開示する資料を、受付、審査、公衆縦覧に供する仕組み。
+金融商品取引法に基づいて上場会社等が内閣総理大臣に提出する、企業に関する情報を開示する資料を、受付、審査、公衆縦覧に供する仕組み。  
+Electronic Disclosure for Investors' NETwork
+
+* こちら http://disclosure.edinet-fsa.go.jp/
+
 
 ## EDINET APIで何が出来るか
 
