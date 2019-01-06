@@ -10,8 +10,8 @@ EDINETのAPI試験に参加したときの記録
 
 ## EDINETとは
 
+* Electronic Disclosure for Investors' NETwork
 金融商品取引法に基づいて上場会社等が内閣総理大臣に提出する、企業に関する情報を開示する資料を、受付、審査、公衆縦覧に供する仕組み。  
-Electronic Disclosure for Investors' NETwork
 
 * こちら http://disclosure.edinet-fsa.go.jp/
 
@@ -24,8 +24,8 @@ Electronic Disclosure for Investors' NETwork
     - 「提出された書類を把握するためのAPI」のType1
 2. 特定日をリクエストして提出された開示書類の一覧を知る機能
     - 「提出された書類を把握するためのAPI」のType2
-3. 2により知り得た提出文書IDを使って開示書類をリクエストしダウンロードする機能
-    -　「書類取得API」
+3. 2により知り得た提出文書IDを使って開示書類をリクエストしダウンロードする機能  
+    - 「書類取得API」  
 
 ## 試験したプログラム等
 
